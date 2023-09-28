@@ -1,0 +1,41 @@
+Q) List out the features of HTML5
+
+The features of HTML5 :-
+
+Semantic Elements
+Audio and Video Support
+Canvas Elements
+Geolocation API
+Local Storage
+Responsive Images
+Web Workers
+Drag and Drop API
+Form Enhancements
+Web Sockets
+Micro Data
+
+
+Q) what is html entities? list out the 5 commonly used html entities
+
+An HTML entity is a piece of text ("string") that begins with an ampersand (&) and ends with a semicolon (;). 
+Entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces). 
+You can also use them in place of other characters that are difficult to type with a standard keyboard.
+
+Character	Entity	Note
+   &	     &amp;	Interpreted as the beginning of an entity or character reference.
+   <	      lt;	Interpreted as the beginning of a tag
+   >	     &gt;	Interpreted as the ending of a tag
+   "	     &quot;	Interpreted as the beginning and end of an attribute's value.
+             &nbsp;	Interpreted as the non breaking space.
+
+
+
+Q)  list three ways which makes html page accessible
+
+Web content can be made accessible just by making sure the correct HTML elements are used for the correct purpose. Some major ways to make HTML accessible are as follows:
+
+Semantic HTML
+Good Alternative texts
+Proper use of Headings
+HTML lang attribute
+Descriptive link text
